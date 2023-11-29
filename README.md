@@ -1,4 +1,4 @@
-Telemetry Data Pipeline
+#Telemetry Data Pipeline
 
 This project facilitates the ingestion, processing, and storage of telemetry data using Kafka messaging and PostgreSQL database.
 
